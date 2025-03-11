@@ -7,5 +7,9 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.bitcode.a30_12_24_googlemaps_demo.MapsFragment"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
